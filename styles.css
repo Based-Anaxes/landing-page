@@ -50,3 +50,18 @@ p {
 img {
     display: flex;
 }
+
+.body-content {
+    display: flex;
+}
+
+button {
+    background-color: #3882f6;
+    color: #f9faf9;
+    font-weight: bold;
+    margin-left: 90px;
+    padding: 10px 40px;
+    border-radius: 12px;
+    border: none;
+    font-size: 18px;
+}
