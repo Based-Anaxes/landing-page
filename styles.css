@@ -139,6 +139,7 @@ img {
     align-items: center;
     width: fit-content;
     padding: 5px 60px;
+    border-radius: 12px;
 }
 
 .sign-up-banner h2 {
