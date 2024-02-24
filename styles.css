@@ -11,6 +11,7 @@ header {
 h1 {
     font-size: 24px;
     color: #F9FAF8;
+    align-self: center;
 }
 
 ul {
@@ -21,7 +22,7 @@ ul {
     margin: 0;
     padding: 0;
     align-items: center;
-    margin-left: auto;
+    gap: 20px;
 }
 
 a {
