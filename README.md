@@ -1,6 +1,6 @@
 # landing-page
 
-IMAGE REFERENDE LIST:
+IMAGE REFERENCE LIST:
 
 Persona 5: Royal (2019) PlayStation 5 [Game]. Japan: Atlas
 
