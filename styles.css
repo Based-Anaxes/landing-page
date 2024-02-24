@@ -49,6 +49,11 @@ p {
 
 img {
     display: flex;
+    height: 400px;
+    width: auto;
+    align-self: flex-end;
+    margin-right: 90px;
+    padding: 60px;
 }
 
 .body-content {
