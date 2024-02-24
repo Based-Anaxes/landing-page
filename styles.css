@@ -40,7 +40,7 @@ h2 {
     margin-left: 90px;
 }
 
-p {
+.description p {
     font-size: 18px;
     color: #e5e7eb;
     margin-left: 90px;
@@ -73,6 +73,7 @@ button {
 
 .info {
     background-color: #fff;
+    padding: 20px;
 }
 
 .info h2 {
@@ -86,4 +87,24 @@ button {
     border: 5px solid #3882f6;
     padding: 0;
     border-radius: 12px;
+    max-width: 200px;
+    height: 200px;
+    margin: 0;
+    padding: 0;
+}
+
+.games-list {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    margin-left: 120px;
+    margin-right: 120px;
+}
+
+.game {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
 }
